@@ -3,7 +3,7 @@
 ## Rychlá instalace (jeden příkaz)
 
 ```bash
-curl -sL https://raw.githubusercontent.com/PavelTajdus/instalace-wifi-skriptu-s-ph/main/install_printerhive.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/PavelTajdus/instalace-wifi-skriptu-s-ph/main/install_ph.sh | sudo bash
 ```
 
 Skript automaticky:
@@ -14,5 +14,5 @@ Skript automaticky:
 
 ## Soubory
 
-- [install_printerhive.sh](install_printerhive.sh) - instalační skript
+- [install_ph.sh](install_ph.sh) - instalační skript
 - [printerhive_files.zip](printerhive_files.zip) - konfigurační soubory
