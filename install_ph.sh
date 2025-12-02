@@ -14,7 +14,7 @@ sudo apt update
 sudo apt upgrade -y
 
 # 2. Instalace potřebných balíčků
-sudo apt install -y hostapd dnsmasq iptables python3 python3-flask git libmicrohttpd-dev build-essential unzip wget curl
+sudo apt install -y hostapd dnsmasq iptables python3 python3-flask git libmicrohttpd-dev build-essential unzip wget curl libjson-c-dev
 
 # 3. Instalace nodogsplash
 cd /home/printerhive
