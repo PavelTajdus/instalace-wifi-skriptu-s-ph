@@ -53,5 +53,3 @@ sudo systemctl unmask hostapd
 # 7. Instalace PrinterHive klienta
 echo "Instaluji PrinterHive klienta..."
 curl -o /tmp/install-printerhive.sh https://app.printerhive.com/install && bash /tmp/install-printerhive.sh
-
-echo "Instalace dokončena."
